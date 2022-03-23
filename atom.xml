@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Andoroyur&#39;s Site</title>
+  
+  <subtitle>Decentralization</subtitle>
+  <link href="https://andoroyur.metaspaces.me/atom.xml" rel="self"/>
+  
+  <link href="https://andoroyur.metaspaces.me/"/>
+  <updated>2022-03-22T23:09:32.000Z</updated>
+  <id>https://andoroyur.metaspaces.me/</id>
+  
+  <author>
+    <name>Andoroyur</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>W3itchCrafter</title>
+    <link href="https://andoroyur.metaspaces.me/2022/03/22/W3itchCrafter/"/>
+    <id>https://andoroyur.metaspaces.me/2022/03/22/W3itchCrafter/</id>
+    <published>2022-03-22T23:08:43.000Z</published>
+    <updated>2022-03-22T23:09:32.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>web3+itch+crafter+witchcraft</p>]]></content>
+    
+    
+    <summary type="html">web3+itch+crafter+witchcraft
+</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>W3itch</title>
+    <link href="https://andoroyur.metaspaces.me/2022/03/21/W3itch/"/>
+    <id>https://andoroyur.metaspaces.me/2022/03/21/W3itch/</id>
+    <published>2022-03-21T02:30:47.000Z</published>
+    <updated>2022-03-21T02:31:30.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>witch</p><p>web3</p><p>three-itch(switch)</p><p>itch 的反叛面貌</p>]]></content>
+    
+    
+    <summary type="html">witch
+web3
+three-itch(switch)
+itch 的反叛面貌
+</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>202203171420-1</title>
+    <link href="https://andoroyur.metaspaces.me/2022/03/16/202203171420-1/"/>
+    <id>https://andoroyur.metaspaces.me/2022/03/16/202203171420-1/</id>
+    <published>2022-03-16T22:21:07.000Z</published>
+    <updated>2022-03-16T22:21:26.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>草稿提交测试 1</p>]]></content>
+    
+    
+    <summary type="html">草稿提交测试 1
+</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>202203171417-测试1</title>
+    <link href="https://andoroyur.metaspaces.me/2022/03/16/202203171417-%E6%B5%8B%E8%AF%951/"/>
+    <id>https://andoroyur.metaspaces.me/2022/03/16/202203171417-%E6%B5%8B%E8%AF%951/</id>
+    <published>2022-03-16T22:17:17.000Z</published>
+    <updated>2022-03-16T22:17:26.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>1</p>]]></content>
+    
+    
+    <summary type="html">1
+</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Matataki+IPFS+GitBook打造Web3.0电子书</title>
+    <link href="https://andoroyur.metaspaces.me/2022/03/13/Matataki-IPFS-GitBook%E6%89%93%E9%80%A0Web3-0%E7%94%B5%E5%AD%90%E4%B9%A6/"/>
+    <id>https://andoroyur.metaspaces.me/2022/03/13/Matataki-IPFS-GitBook%E6%89%93%E9%80%A0Web3-0%E7%94%B5%E5%AD%90%E4%B9%A6/</id>
+    <published>2022-03-13T23:31:00.000Z</published>
+    <updated>2022-03-13T23:31:24.000Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>更新记录</li><li>概述</li><li>步骤<ul><li>安装 GitBook 并生成_book 目录</li><li>将生成的_book 目录部署到 IPFS</li><li>Matataki</li></ul></li><li>效果<ul><li>挂件</li><li>二维码</li></ul></li><li>互动</li><li>结语</li><li>参考</li></ul><h2 id="更新记录">更新记录</h2><ul><li>2020-11-16 初稿</li><li>2020-11-17 优化挂件和二维码访问效果，补充关系图</li><li>2020-11-23 补充一些在和读者的互动交流涌现的思路</li></ul><h2 id="概述">概述</h2><p>瞬 Matataki，是永久存储和版权确权的内容平台。瞬 Matataki 的初衷，是破除中心化平台对创作内容版权的垄断，和创作者权益的损害，再塑互联网最初的理想和博客时代的辉煌。^<a href="#footnotes-def-1">1</a>^</p><p>星际文件系统(InterPlanetary File System). IPFS 是一个分布式的 web, 点到点超媒体协议. 可以让我们的互联网速度更快, 更加安全, 并且更加开放. IPFS 协议的目标是取代传统的互联网协议 HTTP。^<a href="#footnotes-def-2">2</a>^</p><p>GitBook 是一个基于 Node.js 的命令行工具，可使用 Github/Git 和 Markdown 来制作精美的电子书。^<a href="#footnotes-def-3">3</a>^</p><p>结合这三者，我们可以制作出 Web3.0^<a href="#footnotes-def-4">4</a>^版本的电子书。结合 IPFS 网关可以有效利用现有的 Web 设施，配合 IFRAME 可以制作挂件嵌入各种站点，生成二维码可以简单地在移动互联网上分享。同时，这份资产属于创作者自己，可以去中心化地运营 IP。</p><h2 id="步骤">步骤</h2><p>这里挑了一本同样基于 CC 协议的电子书来制作。个人认为是非常好的书，值得多读几遍。</p><p><a href="https://worldaftercapital.gitbook.io/worldaftercapital/">来源</a></p><p><a href="https://github.com/WorldAfterCapital">Github 仓库</a></p><p>书的版权属于原作者，对内容也没有修改，通过 IPFS 进行分享</p><h3 id="安装-GitBook-并生成-book-目录">安装 GitBook 并生成_book 目录</h3><p>网上教程还是很多的，比如<a href="https://www.jianshu.com/p/f8cee64d2153">这篇</a></p><h3 id="将生成的-book-目录部署到-IPFS">将生成的_book 目录部署到 IPFS</h3><p>部署可以用 <code>ipfs-deploy</code> 命令,或者 <a href="https://pinata.cloud/">Pinata</a> 这样的服务。参考<a href="https://io-oi.me/tech/host-your-blog-on-ipfs/">这篇文章</a>就没有问题了。</p><p>为了得到一个相对漂亮的 url，保持完整的目录结构，用 wrap 模式是比较好的，可以看<a href="https://flyingzumwalt.gitbooks.io/decentralized-web-primer/content/files-on-ipfs/lessons/wrap-directories-around-content.html">这里</a></p><p>这样生成的 path</p><p><code>QmRMMADmJuLAgsoKzF9ehFMNyPPxAWz3pap2iUZaAhB5tg/world-after-capital</code></p><p>还是很好看出书名的</p><p>加上网关就可以访问了</p><p><a href="https://10.via0.com/ipfs/QmRMMADmJuLAgsoKzF9ehFMNyPPxAWz3pap2iUZaAhB5tg/world-after-capital">https://10.via0.com/ipfs/QmRMMADmJuLAgsoKzF9ehFMNyPPxAWz3pap2iUZaAhB5tg/world-after-capital</a></p><p>如果某个网关访问不方便，我们还可以换其他的</p><p><code>https://cf-ipfs.com/ipfs/QmRMMADmJuLAgsoKzF9ehFMNyPPxAWz3pap2iUZaAhB5tg/world-after-capital</code></p><p>同时也是</p><p><code>https://bafybeibmydgevyhgrkodylcvfijg3onwyfkvq7amvzzg7rt2swdkmebcgu.ipfs.cf-ipfs.com/world-after-capital/</code></p><h3 id="Matataki">Matataki</h3><p>做完上面两步，我们已经得到一个可以在互联网上访问的电子书了。结合 Matataki 平台，还能做到：</p><ul><li>永久确权</li><li>用 <a href="https://matataki.io/token">Fan 票</a>组织书友圈，还可以进一步融入 <a href="https://matataki-dao.netlify.app/#/">DAO</a> 的玩法</li><li><a href="https://matataki-nft.netlify.app/">制作电子书 NFT</a>，在 NFT 市场上拍卖</li></ul><p>NFT 的制作可以参考：</p><iframe width="100%" height="180" src="https://www.matataki.io/widget/?id=5743&amp;invite=3017&amp;referral=3017" frameborder="0"></iframe><p>图片用二维码，url 链接填 Matataki 或者 IPFS 上的，描述简要介绍一下电子书就可以了。</p><p>二维码图片也用 IPFS 部署，链接也指向 IPFS 的话，NFT 相关信息就都在 Web3.0 基建上了。</p><p>这里比较一下选用不同链接带来的一些区别：</p><ol><li><p>直接用 Matataki 文章或者作者的链接，比如：</p><p><code>https://www.matataki.io/p/5779</code></p><p>然后在文章里用链接或者挂件的形式指向在 IPFS 部署的电子书</p><p>好处是能够从 NFT 引导到平台、社区、圈子，展开进一步的交流；</p><p>坏处是如果这个链接因为不可抗力消失了，NFT 关联的电子书也一并无法访问了。不过可以用图片二维码指向 IPFS 电子书，链接指向 Matataki 平台来做到两全其美</p></li><li><p>直接用 IPFS 电子书的链接，比如：</p><p><code>https://bafybeibmydgevyhgrkodylcvfijg3onwyfkvq7amvzzg7rt2swdkmebcgu.ipfs.cf-ipfs.com/world-after-capital/</code></p><p>好处是干净，NFT 相关的信息都指向 IPFS，在“脱离平台也可以使用”这个层面是做的最好的——Matataki NFT 可以在 <a href="https://opensea.io/">OpenSea</a> 交易的，不必非得依赖 Matataki 自己提供的市场。目前是在 Rinkeby 链上</p><p>坏处是只靠 NFT 不好直接找到 Matataki 生态。可以在描述里加上 Matataki 相关信息来解决</p></li><li><p>用 Matataki 发表文章在 IPFS 备份的链接，比如：</p><p><code>https://ipfs.mttk.net/ipfs/QmPaX26KEFCuHf1V7RbBmdjAjJUzqRwJGPF5czWe6hvqas</code></p><p>这个链接里面可以找到指向作者和平台的超链接，用了这个就可以从 NFT 的信息反查到 Matataki，又不会依赖 Matataki</p><p>坏处是理解的门槛会有些高，涉及到的要件比较多，可能会搞混了</p></li></ol><p><img src="https://storageapi.fleek.co/andoroyur-team-bucket/11cc76ae-2ced-4bca-9186-f2456ad30f2d" alt="image.png"></p><p>不过理解之后，电子书换成其他艺术作品做法也都是大同小异的，适用范围还挺大的。</p><ul><li>SEO 做得挺不错的，用搜索引擎的话能比较容易地找到文章</li></ul><p><img src="https://storageapi.fleek.co/andoroyur-team-bucket/52a7b28e-dce4-4280-8fbb-413871f40c73" alt="image.png"></p><p><img src="https://storageapi.fleek.co/andoroyur-team-bucket/6e9d6aa0-0d8b-4779-baee-1c82e23e6a4f" alt="image.png"></p><h2 id="效果">效果</h2><h3 id="挂件">挂件</h3><iframe width="100%" height="480" src="https://10.via0.com/ipfs/QmRMMADmJuLAgsoKzF9ehFMNyPPxAWz3pap2iUZaAhB5tg/world-after-capital" frameborder="0"></iframe><p>直接使用原仓库生成的，自带的样式和分享渠道就不调整了。自制电子书的时候可以自定义样式和社交媒体分享渠道</p><h3 id="二维码">二维码</h3><p>地址 1：</p><p><img src="https://storageapi.fleek.co/andoroyur-team-bucket/d363ed13-d3a3-4ded-9372-5821646196cf" alt="0df26fb5eba41c73d86b39801864d460.png"></p><p>地址 2：</p><p><img src="https://storageapi.fleek.co/andoroyur-team-bucket/1042f730-ccec-4bfc-abd8-741e8dd56558" alt="a241441f3551200c29ff04272f61be8b.png"></p><p>Pinata 地址：</p><p><img src="https://storageapi.fleek.co/andoroyur-team-bucket/aa89859e-f7e2-446e-b23b-40cd875fecfd" alt="efc681a3f68462690ee5fd446c5a9958.png"></p><p>用 PInata 提供 Pin 服务之后，理论上访问效果是会比较好的。受益的看来不只有 Pinata 自己的网关。</p><p>用微信二维码扫码 + 微信翻译，效果比想象中好，也可以很自然地收藏、分享。</p><h2 id="互动">互动</h2><p>Q：是要如何在 IPFS 電子書裡直接加入 NFT 鎖呢？不然 IPFS address 流出去，就等於書籍開源了 ～</p><p>A:  对这个问题有不同的思路，和书籍的性质也是有关系：</p><p>一种思路是不惧开源，甚至鼓励书籍的传播——写书的目的就是让思想传播地越远、越广、越深，回报层面靠思想带来的共识。按这种思路，活用 Web2.0 的流量来做宣发也是 OK 的，也可以在各种流量入口免费地发布样章，甚至是能完整阅读的版本，而 NFT 起到的是类似 steam 平台“成就”“徽章”的作用。这种模式要注重生态的建设，让徽章持有者获得更丰富的体验：</p><ul><li>可以构造智能合约来为 NFT 持有者提供“福利”，比如参考 DEGO 铲子，让 NFT 能参与抵押挖矿，挖出来的相当于是作者宇宙的“魔力之源”，有各种各样的用途</li><li>可以和 DAO 进行对接，让作者、读者、商家有一个可以共同运营的组织、社区，可以展开一些活动。如今书店也好、图书馆也好，有一个演变（求存）方向是构造场域，让读者能有一个舒适的阅读和交流空间。可以考虑和这类书店、图书馆合作，让 NFT 成为一种书友们的通行证。这种做法会涉及到进一步的权益分配问题，而这点刚好是运用智能合约的 DAO 尝试解决的，可以成为一种去中心化治理的实践。</li></ul><p>另一种思路是直接应对想锁住 NFT 的需求，为 NFT 对应的资源配不同的 privateKey 和 publicKey，部署到 IPFS 上的资源是加密过的，要通过调用智能合约获取对应的 key 解密才能还原出来（GitBook 原生应该是做不到，要通过插件来实现）。每个 NFT 本就是独一无二的，这样子正符合其定义。如果书籍泄露了，那 key 就泄露了，根据其唯一性，就能确定购买者，找到泄漏源了。在用 Fan 票构筑的生态里，泄露者发行的 Fan 票的持有者们可以抛售其 Fan 票来惩罚这种失信行为。</p><p>这种思路有一个变种，借助 IPFS 本身的性质，通过同一个 IPFS 节点发布的内容相同的资源，其 CID（Hash）就相同，本身就是指纹，而只是一点小差别就会让这些 CID 会完全不同，不用担心直接被猜出连续编号对应的 CID。所以如果要发行 1000 个 NFT，可以上传 1000 份不同的电子书，区别就是其中某页带上的书籍的编号。</p><p>如果像文中一样手动操作固然会显得繁琐，不过 GitBook 本身源文件是 markdown 格式，编程写个循环改写其版权页，加上编号，每改写一次，ipfs add 一次，记录下 1 个 CID，然后以编程的方式调用智能合约制作 NFT，便显得足够“工业化”了。如果有 Web3.0 书局提供这样的服务也是很有趣的。</p><p>有些商法见仁见智，技术层面上是可以做的： 书籍多媒体化后嵌入插图、动图、音频、视频都不是什么难事，所以是可以在书籍里加入各种特典的，存在为了集齐特典而购买复数份 NFT 的收藏家也不奇怪。</p><p>如果结合几种思路的一些优点，与软件在开源方面的一些成功实践就颇有相似之处：</p><p>免费阅读的开源社区版本有助于扩大作者的潜在读者群，形成社区；</p><p>付费购买的 NFT 版本在读者看来有收藏价值，在社区治理上有话语权；作者看来有版税收入；</p><p>主观看法很重的部分，当个参考就好</p><p>[/read]</p><h2 id="结语">结语</h2><p>这样我们就得到一个集分布式存储 + 社交代币 +NFT 玩法于一身的电子书了，而且在现在的互联网里也能很方便地传播。随着 Matataki 的成长，能做的事还会越来越多，使用起来也会越来越方便。知识产权(IP)+ DeFi 还是能有不少玩法的</p><h2 id="参考">参考</h2><hr><ol><li><a href="https://www.yuque.com/matataki/matataki/wa029t">https://www.yuque.com/matataki/matataki/wa029t</a> <a href="#footnotes-ref-1">↩</a></li><li><a href="https://zhuanlan.zhihu.com/p/32615963">https://zhuanlan.zhihu.com/p/32615963</a> <a href="#footnotes-ref-2">↩</a></li><li><a href="https://learn-gitbook.gitbook.io/gitbook/shi-mo-shi-gitbook">https://learn-gitbook.gitbook.io/gitbook/shi-mo-shi-gitbook</a> <a href="#footnotes-ref-3">↩</a></li><li>没有确切的定义，但是一些要素还是比较清晰的,可以参考 <a href="https://academy.binance.com/en/articles/the-evolution-of-the-internet-web-3-0-explained">https://academy.binance.com/en/articles/the-evolution-of-the-internet-web-3-0-explained</a> <a href="#footnotes-ref-4">↩</a></li></ol>]]></content>
+    
+    
+    <summary type="html">更新记录概述步骤安装GitBook并生成_book目录将生成的_book目录部署到IPFSMatataki效果挂件二维码互动结语参考
+更新记录
+
+2020-11-16 初稿
+2020-11-17...</summary>
+    
+    
+    
+    
+    <category term="瞬Matataki" scheme="https://andoroyur.metaspaces.me/tags/%E7%9E%ACMatataki/"/>
+    
+    <category term="web3.0" scheme="https://andoroyur.metaspaces.me/tags/web3-0/"/>
+    
+    <category term="IPFS" scheme="https://andoroyur.metaspaces.me/tags/IPFS/"/>
+    
+    <category term="NFT" scheme="https://andoroyur.metaspaces.me/tags/NFT/"/>
+    
+    <category term="Fan票" scheme="https://andoroyur.metaspaces.me/tags/Fan%E7%A5%A8/"/>
+    
+    <category term="GitBook" scheme="https://andoroyur.metaspaces.me/tags/GitBook/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>keybase 实验</title>
+    <link href="https://andoroyur.metaspaces.me/2022/03/13/keybase-%E5%AE%9E%E9%AA%8C/"/>
+    <id>https://andoroyur.metaspaces.me/2022/03/13/keybase-%E5%AE%9E%E9%AA%8C/</id>
+    <published>2022-03-13T22:31:45.000Z</published>
+    <updated>2022-03-13T22:59:26.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>理论上只有特定的人可以得到原文</p><hr><p>BEGIN KEYBASE SALTPACK ENCRYPTED MESSAGE. kiOUtMhcc4NXXRb XMxIeCbf5rHBhkA jzkchCwWUfrUTiA LP8FEPXP1cihetm h6Cjg8JBAD8FVES 2vFABLbCTpBeHer cVNzNRdsg4yNL3l DGo3Z5feIvBywuu qjAHVOEkJAGe4uo dLl8PN7nu8xKz99 6OZOUb4FOgI0JZr n3zFFdNiIqsqSVq KRRVSjg8jfWuXSi CuQWXGDQJ74yySD jngRFkqs2Yc9U4S 4q5dsomRZ5bkQ9h qwrzfh4ykoL7qZR SWeTLW3gtsOpJ2O bgSLTl7TEMLUxKa y8jqG9rdEOtAd1m 4xhClt1tDp1zkAz yu2MDBKFBLpBv8Q 7P07uw4TC9gICXb gyMdgE8VbkMABFV M3yaAx8cCKZdyfm U1nbQxZPYoMUTKS pSRmUCrPwvMiAPF ikQL1obXJPqI7pf eg756XNdxbZf6Pp sZOnxYRrd5JVvYR IxvEIExDIRihg2d kV8U7qaQvtRTdIh PlAP61C2tGsPtMF d7me9cguF7v9KFM iwaOkd691c5zPnv 8PKDm9APDkpgcjR TrFEHOHyVsbhcSR KCMXAaTPh5ouRoW lgmJvmjnWRAZiJS nFBI0kdoNr6jOwm eW2ulQN1. END KEYBASE SALTPACK ENCRYPTED MESSAGE.</p><hr><p>这是文件</p><p><a href="https://ipfs.infura.io/ipfs/bafybeib35lxh7v2xbualo54uvwnt6t7gyh3un6whh2hmku4vvkuhgof7ii">https://ipfs.infura.io/ipfs/bafybeib35lxh7v2xbualo54uvwnt6t7gyh3un6whh2hmku4vvkuhgof7ii</a></p>]]></content>
+    
+    
+    <summary type="html">理论上只有特定的人可以得到原文
+
+BEGIN KEYBASE SALTPACK ENCRYPTED MESSAGE. kiOUtMhcc4NXXRb XMxIeCbf5rHBhkA jzkchC...</summary>
+    
+    
+    
+    
+    <category term="Keybase" scheme="https://andoroyur.metaspaces.me/tags/Keybase/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>任务触发测试</title>
+    <link href="https://andoroyur.metaspaces.me/2022/03/10/%E4%BB%BB%E5%8A%A1%E8%A7%A6%E5%8F%91%E6%B5%8B%E8%AF%95/"/>
+    <id>https://andoroyur.metaspaces.me/2022/03/10/%E4%BB%BB%E5%8A%A1%E8%A7%A6%E5%8F%91%E6%B5%8B%E8%AF%95/</id>
+    <published>2022-03-10T04:31:21.000Z</published>
+    <updated>2022-03-10T04:33:20.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>123</p>]]></content>
+    
+    
+    <summary type="html">123
+</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>发文速度测试1</title>
+    <link href="https://andoroyur.metaspaces.me/2022/03/10/%E5%8F%91%E6%96%87%E9%80%9F%E5%BA%A6%E6%B5%8B%E8%AF%951/"/>
+    <id>https://andoroyur.metaspaces.me/2022/03/10/%E5%8F%91%E6%96%87%E9%80%9F%E5%BA%A6%E6%B5%8B%E8%AF%951/</id>
+    <published>2022-03-10T03:26:20.000Z</published>
+    <updated>2022-03-10T03:26:20.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>发文速度测试 1</p>]]></content>
+    
+    
+    <summary type="html">发文速度测试 1
+</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>存证测试2</title>
+    <link href="https://andoroyur.metaspaces.me/2022/03/10/%E5%AD%98%E8%AF%81%E6%B5%8B%E8%AF%952/"/>
+    <id>https://andoroyur.metaspaces.me/2022/03/10/%E5%AD%98%E8%AF%81%E6%B5%8B%E8%AF%952/</id>
+    <published>2022-03-10T03:10:26.000Z</published>
+    <updated>2022-03-10T03:10:26.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>存证测试</p>]]></content>
+    
+    
+    <summary type="html">存证测试
+</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>第一篇文章</title>
+    <link href="https://andoroyur.metaspaces.me/2022/03/10/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>https://andoroyur.metaspaces.me/2022/03/10/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+    <published>2022-03-10T03:05:36.000Z</published>
+    <updated>2022-03-10T03:05:36.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://storageapi.fleek.co/andoroyur-team-bucket/metanetwork/users/metaio-storage/image.png" alt="metanetworkusersmetaiostorageimage.png"></p><p>存证</p><p><img src="https://storageapi.fleek.co/andoroyur-team-bucket/metanetwork/users/metaio-storage/image.png" alt="metanetworkusersmetaiostorageimage.png"></p>]]></content>
+    
+    
+    <summary type="html">
+存证
+
+</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Welcome aboard Meta Space （CN+EN）</title>
+    <link href="https://andoroyur.metaspaces.me/2021/12/22/hello-meta-space/"/>
+    <id>https://andoroyur.metaspaces.me/2021/12/22/hello-meta-space/</id>
+    <published>2021-12-22T01:00:00.000Z</published>
+    <updated>2022-03-23T07:09:41.345Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://i.imgur.com/U9HusFg.png" alt=""></p><p>Hello Captain！<br>你好舰长！</p><p>欢迎登入 Meta Space！<br>Meta Team 希望打造的 Meta Space 是一个可持续构建的虚拟数字身份，您的元数据展示空间。</p><p>Web2.0 的时代摇摇欲坠——自1999年 Darcy DiNucci 提出这个术语之后，诸如版权保护、隐私控制、数据确权、身份连续性、数据控制权、信息审查等问题，一直存在并越来越让人担忧，这些阻碍创作者们二十余年的痛点将会在接下来的 Web3.0 时代中被更好的解决。人类将会通过 元数据宇宙和社交通证 史无前例地在未来连接为一个整体。在通向 Web3.0 的路上 ，还有无数个和您一样的同行者，以及未来更多受到启迪而加入到 Web3 舰队的创作者们。</p><h2 id="什么是-Meta-Space">什么是 Meta Space</h2><p>与人们当下已经习惯的社交网络不同，Meta Space 是完全属于您个人的空间。您的创作将存储在由您指定的可控空间，发布到完全属于您自己的域名，并且创作提交和发布的整个流程，都由可校验元数据的存证。Meta Space 从编辑到发布全流程保护您的数字权益。换句话说，您自己就是平台，所有的流量、收益以及数据版权都由您自己控制。如果你愿意，您过往的创作也将在不久的将来通过我们和社区发明的各种各样的迁移工具，安全地回归到您的 Meta Space 中。而社交网络将会在未来通过 Meta Team 提供的社交通证工具来逐步实现。Meta Space 是载您驶向 Web3.0 元数据宇宙的星际战舰。</p><p>对于看到这里的读者：<br>如果你希望自己创作的珍贵内容可被永久存储；<br>如果你希望自己创作到发布的过程不会被平台作恶；<br>如果你希望可以获得一个完全属于自己掌控的展示空间；<br>如果你希望从现在开始做好进入 Web3.0 世界的准备；<br>欢迎你来到这里创建自己的 Meta Space！<br>如果你是 Matataki 的老用户，这里将会是你们的新乐土！</p><h2 id="为什么是-Meta-Space">为什么是 Meta Space</h2><p>Meta Space 是可以脱离平台存在的独立站点，是个人创作元数据的展示空间，也是您进入 Web3.0 必备的、可持续构建的数字身份。</p><p>我们将过往产品 Matataki 中大家最喜爱的部分保留并且全面加强，同时提供了去平台化的体验。以下特性仅仅是一小部分：</p><p><strong>去平台化体验</strong><br>Meta Space 只作为工具，平台由您创建和控制。</p><p><strong>Markdown</strong><br>知道你钟爱 Markdown 写作，我们也是。</p><p><strong>去中心化存储</strong><br>被删帖删怕了吧？试试去中心化存储？</p><p><strong>创作存证</strong><br>每个环节我们都提供了可追溯可校验的存证工具！</p><p><strong>安全创作</strong><br>所有创作都在您本地完成，我们——任何您以外的其他人，都无权插手。</p><p><strong>元数据</strong><br>所有的内容、素材都以去中心化存储的元数据作为基础，保留 NFT 创作空间。</p><p><strong>社交通证</strong><br>上代产品 Matataki 中的核心价值工具——  Fan票，将在未来强势回归 Meta Space 中。</p><p><strong>更多特性，面向未来</strong><br>我们曾设想过这样一个未来世界：</p><ul><li>我希望在互联网上可以获得一个自己可控制的且永久的身份；</li><li>我希望我进入任何社交媒体的时候，都没有好友关系转移的负担；</li><li>我希望哪怕只和1000个真正的粉丝去达成连接，而不是关注虚荣指标——流量；</li><li>我希望我只去做自己喜欢且擅长的事情，就可以获得收入，养活自己；</li><li>我希望可以自由把控自己的生活方式，而不再被所谓的成功观念所绑架。</li><li>我所希望的 Web3.0 形式，是个人将元数据和数据掌握在自己手中。</li><li>我所希望的 Web3.0 形式，是平台负责好形式，个人负责好内容，网络负责好社交。</li></ul><p>我们的产品面向未来做足了准备，热切地朝向“创作者经济”出发——更多特性将会在未来逐步上线，欢迎随时联系我们，告诉我们你的想法！</p><h2 id="关于-Meta-Space-的链接">关于 Meta Space 的链接</h2><p>Meta WIKI：<a href="https://meta-io.gitbook.io/meta-wiki">https://meta-io.gitbook.io/meta-wiki</a></p><p>Join Matrix Group ：<a href="https://matrix.to/#/!jrjmzTFiYYIuKnRpEg:matrix.org?via=matrix.org">https://matrix.to/#/!jrjmzTFiYYIuKnRpEg:matrix.org?via=matrix.org</a><br>Join Discord ：<a href="https://discord.com/invite/59cXXWCWUT">https://discord.com/invite/59cXXWCWUT</a><br>Join Telegram：<a href="https://t.me/metanetwork">https://t.me/metanetwork</a><br>Twitter：<a href="https://twitter.com/realMetaNetwork">https://twitter.com/realMetaNetwork</a><br>Medium：<a href="https://medium.com/meta-network">https://medium.com/meta-network</a><br>Youtube：<a href="https://www.youtube.com/channel/UC-rNon6FUm3blTnSrXta2gw">https://www.youtube.com/channel/UC-rNon6FUm3blTnSrXta2gw</a></p><p><a href="http://Meta.io">Meta.io</a> 官网（<a href="https://meta.io/%EF%BC%89">https://meta.io/）</a><br>Meta Network 可视化社交网络 （<a href="https://www.metanetwork.online/%EF%BC%89">https://www.metanetwork.online/）</a><br>Meta Space Console 元空间控制台 （<a href="https://meta-space-console.metanetwork.online">https://meta-space-console.metanetwork.online</a>）<br>Meta Space Launcher 元空间启动器 （<a href="https://www.metaspaces.me/%EF%BC%89">https://www.metaspaces.me/）</a><br>Meta Space 元空间 （https://<Custom Domain>.metaspaces.me/）<br>Meta Data Viewer 元数据查看器 vercel<br>Meta Link 元链接 （Not launch yet）</p><p>【Telegram】Meta Network CN <a href="https://t.me/metanetwork_cn">https://t.me/metanetwork_cn</a><br>【Telegram】Meta Network <a href="https://t.me/metanetwork">https://t.me/metanetwork</a><br>【Telegram】Meta Network News <a href="https://t.me/metnetwork_news">https://t.me/metnetwork_news</a><br>【Discord】Meta Network <a href="https://t.co/iMYGY7iTx6">https://t.co/iMYGY7iTx6</a><br>【Medium】Meta Network <a href="https://medium.com/meta-network">https://medium.com/meta-network</a><br>【Twitter】@realMetaNetwork <a href="https://twitter.com/realMetaNetwork">https://twitter.com/realMetaNetwork</a><br>【Telegram】Matataki <a href="https://t.me/smartsignature_io">https://t.me/smartsignature_io</a></p><h1>Welcome aboard Meta Space</h1><p>Hello Captain!</p><p>Welcome to Meta Space!<br>The Meta Team wants to create Meta Space as a sustainably built virtual digital identity, your metadata display space.</p><p>The era of Web 2.0 is shaky - since Darcy DiNucci coined the term in 1999, issues such as copyright protection, privacy control, data validation, identity continuity, data control, and information censorship have been present and increasingly worrisome, issues that have held creators back for over two decades. These pain points will be better solved in the next Web 3.0 era. For the first time in history, humanity will be connected as a whole in the future through the metadata universe and social tokens. There are countless others like you on the road to Web3.0 and many more creators who will be inspired to join the Web3 fleet in the future.</p><h2 id="What-is-Meta-Space">What is Meta Space</h2><p>Unlike the social networks that people have become accustomed to, Meta Space is a space that is entirely personal to you. Your creations are stored in a controlled space designated by you, published to your domain, and the entire submission and publication process is verified by verifiable metadata. In other words, you are the platform, and you control all the traffic, revenue, and data copyright. If you wish, your past creations will be safely returned to your Meta Space shortly through various migration tools invented by the community and us. Meta Space is the starship that will carry you to the Web 3.0 metadata universe.</p><p>For those of you reading this:<br>If you want the precious content you create to be stored forever,<br>If you wish your creation-to-publication process to be free from the evils of the platform,<br>If you’re going to have access to a display space entirely under your control,<br>If you’re going to be ready to enter the Web 3.0 world from now on-</p><p>You are welcome to create your own Meta Space here!<br>If you’re an old Matataki user, this is your new home!</p><h2 id="Why-Meta-Space">Why Meta Space</h2><p>Meta Space is a stand-alone site that can exist off the platform, a showcase for your creative metadata, and a sustainable digital identity essential for your entry into Web 3.0.</p><p>We’ve taken the favorite parts of our previous product, Matataki, and enhanced them all while providing a de-platformed experience. The following features are just a few.</p><p><strong>De-platformed experience</strong><br>Meta Space is a tool only; you create and control the platform.</p><p><strong>Markdown</strong><br>We know you love Markdown writing, and so do we.</p><p><strong>Decentralized Storage</strong><br>Are you tired of getting your posts deleted? Try decentralized storage!</p><p><strong>Proved Creating</strong><br>We provide a traceable and verifiable proofing tool for every step of the process!</p><p><strong>Secured Creating</strong><br>All creations are done locally, and we - no one other than you - have the right to interfere.</p><p><strong>Metadata</strong><br>All content and material is based on decentralized stored metadata, preserving the NFT creation space.</p><p><strong>Social Token</strong><br>Fan ticket, the core value tool in the previous generation product Matataki, will return to Meta Space in the future.</p><p><strong>More features for the future</strong><br>We have envisioned a future world where</p><ul><li>I want to be able to have an identity on the Internet that I can control, and that is permanent.</li><li>I want to be able to access any social media without the burden of friend transfer.</li><li>I want to connect with even just 1,000 real followers rather than focusing on vanity metrics - traffic.</li><li>I want to earn an income and support myself by only going into what I love and am good at.</li><li>I want to be free to control my lifestyle and no longer be kidnapped by the so-called notion of success.</li><li>I want a form of Web 3.0 where individuals take metadata and data into their own hands.</li><li>The Web3.0 form I want is one in which the platform is responsible for good form, the individual is responsible for good content, and the network is responsible for good socialization.</li></ul><p>Our products are future-proof and passionately moving towards the “creator economy” - more features will come in the future, so feel free to contact us, and thanks for all the feedback!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/U9HusFg.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Hello Captain！&lt;br&gt;
+你好舰长！&lt;/p&gt;
+&lt;p&gt;欢迎登入 Meta Space！&lt;br&gt;
+Meta Team 希望打造的 Meta Space</summary>
+      
+    
+    
+    
+    <category term="Generated" scheme="https://andoroyur.metaspaces.me/categories/Generated/"/>
+    
+    
+    <category term="Meta Space" scheme="https://andoroyur.metaspaces.me/tags/Meta-Space/"/>
+    
+  </entry>
+  
+</feed>
